@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InfiniteTabSample</string>
+    <string name="fragment_page_title">Hello fragment #%d</string>
+</resources>

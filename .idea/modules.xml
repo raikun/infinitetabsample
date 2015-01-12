@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CenterTabTest.iml" filepath="$PROJECT_DIR$/CenterTabTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infinitetabsample/infinitetabsample.iml" filepath="$PROJECT_DIR$/infinitetabsample/infinitetabsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infinitetabslayout/infinitetabslayout.iml" filepath="$PROJECT_DIR$/infinitetabslayout/infinitetabslayout.iml" />
+    </modules>
+  </component>
+</project>
+
